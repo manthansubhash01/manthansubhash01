@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manthan Ziman</h1>
 <p align="center">
-  <img src="https://i.imgur.com/rTZkf4K.gif" alt="Banner" />
+  <img src="https://i.imgur.com/rTZkf4K.gif" alt="Banner" width=800px />
 </p>
 <h3 align="center">Creating seamless digital experiences while exploring the frontiers of AI & ML</h3>
 
