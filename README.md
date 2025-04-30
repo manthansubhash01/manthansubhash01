@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manthan Ziman</h1>
-![Banner]([https://your-link-to-the-gif.gif](https://i.imgur.com/rTZkf4K.gif))
+![Banner](https://i.imgur.com/rTZkf4K.gif)
 <h3 align="center">Creating seamless digital experiences while exploring the frontiers of AI & ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manthansubhash01&label=Profile%20views&color=0e75b6&style=flat" alt="manthansubhash01" /> </p>
